@@ -58,7 +58,3 @@
 ---
 
 #FinanceiroPessoal #Python #Flet #OrganizaçãoFinanceira #OpenSource  
-
----  
-
-💸 **Pare de perder dinheiro sem controle! Comece agora mesmo!** 🚀
