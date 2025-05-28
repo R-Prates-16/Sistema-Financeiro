@@ -1,4 +1,3 @@
-# Importações necessárias
 import flet as ft  # Framework para interface gráfica
 import csv  # Para manipulação de arquivos CSV
 from datetime import datetime  # Para trabalhar com datas
